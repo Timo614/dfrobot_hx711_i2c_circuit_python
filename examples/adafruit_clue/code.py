@@ -41,5 +41,6 @@ while True:
     clue_display[3].text = "Temp: {:.1f} C".format(temperature)
     clue_display[5].text = "Humidity: {:.1f} %".format(humidity)
     clue_display[7].text = "Weight: {:.2f} g".format(hx711_sensor.weight(20))
+    clue_display.show()
     
     time.sleep(1)
