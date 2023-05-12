@@ -2,6 +2,8 @@
 
 This is a circuit python library for interfacing with the DFRobot HX711 scale that communicates over i2c. You can see their libraries for integration with arduino here: https://github.com/DFRobot/DFRobot_HX711_I2C
 
+Video showing it in use: https://youtu.be/K0jk2dn-1A8
+
 Product page: https://www.dfrobot.com/product-2289.html
 
 ## Using
